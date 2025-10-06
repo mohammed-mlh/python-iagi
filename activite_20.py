@@ -1,4 +1,3 @@
-# act20 gestion des adresses IP
 adresses_ip = ["192.168.0.1", "10.0.0.1", "172.16.0.1", "200.100.50.1", "169.254.0.1"]
 print(f"Liste originale : {adresses_ip}")
 
